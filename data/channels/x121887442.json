@@ -1,0 +1,27 @@
+{
+    "title": "Channel 20- name Change",
+    "description": "No!",
+    "referenceId": null,
+    "date_created": "1507655919",
+    "date_modified": "1507657700",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "121887442",
+    "loginId": "1759039",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-2-name-change",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "167773568-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "167773568-192841790531.png",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/1598\/447\/167773568-192841790531.png",
+        "enableSubscribers": true,
+        "__SMARTLIST__": "RE::add(\r\n RE::videos(\r\n  RE::condition()\r\n   ->lastNDays(30)\r\n   ->order('dateCreated')\r\n )\r\n);"
+    },
+    "transcripts": null
+}
