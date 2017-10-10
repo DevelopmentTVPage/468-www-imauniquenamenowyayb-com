@@ -3,7 +3,7 @@
     "description": "Description Change 2",
     "referenceId": null,
     "date_created": "1507654785",
-    "date_modified": "1507663697",
+    "date_modified": "1507663803",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -20,7 +20,7 @@
         "canvasType": "cropped",
         "canvasCropped": "679803236-521556917667.png",
         "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/396\/111\/679803236-521556917667.png",
-        "enableSubscribers": true,
+        "enableSubscribers": false,
         "__SMARTLIST__": "RE::add(\r\n RE::videos(\r\n  RE::condition()\r\n   ->lastNDays(20)\r\n   ->order('dateCreated')\r\n )\r\n);"
     },
     "transcripts": null
