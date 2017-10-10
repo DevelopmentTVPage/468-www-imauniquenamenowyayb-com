@@ -1,9 +1,9 @@
 {
-    "title": "Napoleon  Total War Online Battle #1 (1v1)",
+    "title": "Video Change",
     "description": "GB Vs France \nLow money\n\n\nFollow me on twitter: https:\/\/twitter.com\/pixelatedapollo",
     "referenceId": "Bx2bsM8Sz4I",
     "date_created": "1362613587",
-    "date_modified": "1507654823",
+    "date_modified": "1507671544",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -33,7 +33,9 @@
         "author": "Pixelated Apollo",
         "mediaDuration": 1140,
         "prettyDuration": "00:19:00",
-        "views": "57518"
+        "views": "57518",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
