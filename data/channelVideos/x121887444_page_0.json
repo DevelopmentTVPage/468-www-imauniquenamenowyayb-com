@@ -2,28 +2,6 @@
     "pageNumber": 0,
     "data": [
         {
-            "id": "121887407",
-            "title": "Medieval 2 Total War Online Battle #27 (2v2 Siege ) \"Walls and towers and stuff\"",
-            "date_created": "1390694805",
-            "loginId": "1759039",
-            "tags": "",
-            "description": "Hey guys,\n\nHere is a little 3v3 siege.\n\nmy team the attacking team had 25k\n\nand the defending team had 20k\n\nenjoy!",
-            "asset": {
-                "type": "youtube",
-                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/t1nm3sTzERY\/maxresdefault.jpg",
-                "uploadDate": 1390694805,
-                "videoId": "t1nm3sTzERY",
-                "title": "Medieval 2 Total War Online Battle #27 (2v2 Siege ) \"Walls and towers and stuff\"",
-                "description": "Hey guys,\n\nHere is a little 3v3 siege.\n\nmy team the attacking team had 25k\n\nand the defending team had 20k\n\nenjoy!",
-                "author": "Pixelated Apollo",
-                "mediaDuration": 1846,
-                "prettyDuration": "00:30:46",
-                "views": "4202"
-            },
-            "parentId": "121887444",
-            "url": "\/channelito\/medieval-2-total-war-online-battle-27-2v2-siege-walls-and-towers-and-stuff\/121887444-121887407"
-        },
-        {
             "id": "121887449",
             "title": "M4H00301.MP4",
             "date_created": "1507671445",
@@ -43,7 +21,7 @@
                 },
                 "mediaDuration": "1",
                 "prettyDuration": "00:00:01",
-                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/84\/48\/889689186-157261241309.jpg",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/330\/185\/787590726-141366471551.jpg",
                 "type": "mp4",
                 "dashUrl": "\/\/v-dev.tvpage.com\/1759039\/121887449\/a7f43\/media.mpd",
                 "hlsUrl": "\/\/v-dev.tvpage.com\/1759039\/121887449\/a7f43\/media.m3u8",
@@ -97,30 +75,6 @@
             },
             "parentId": "121887444",
             "url": "\/channelito\/m4h00301-mp4\/121887444-121887449"
-        },
-        {
-            "id": "121887440",
-            "title": "Video Change",
-            "date_created": "1362613587",
-            "loginId": "1759039",
-            "tags": "Shores",
-            "description": "For as long as the grass grows\nFor as long as the stream flows\nand the sun shines down on to us\nonly they who walk the clouds know\nfor how long the wind blows\nand the sky\nis blue\nabove us",
-            "asset": {
-                "type": "youtube",
-                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/553\/311\/609159517-0110553421.jpg",
-                "uploadDate": 1362613587,
-                "videoId": "Bx2bsM8Sz4I",
-                "title": "Napoleon  Total War Online Battle #1 (1v1)",
-                "description": "GB Vs France \nLow money\n\n\nFollow me on twitter: https:\/\/twitter.com\/pixelatedapollo",
-                "author": "Pixelated Apollo",
-                "mediaDuration": 1140,
-                "prettyDuration": "00:19:00",
-                "views": "57518",
-                "uploadAsset": false,
-                "quality": ""
-            },
-            "parentId": "121887444",
-            "url": "\/channelito\/link-text-change-again\/121887444-121887440"
         }
     ]
 }
