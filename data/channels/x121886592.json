@@ -1,0 +1,27 @@
+{
+    "title": "Channel 1- Name Change-3",
+    "description": "How do you do?!",
+    "referenceId": null,
+    "date_created": "1507654785",
+    "date_modified": "1507660791",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "121886592",
+    "loginId": "1759039",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-1-name-change",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "679803236-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "679803236-521556917667.png",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/396\/111\/679803236-521556917667.png",
+        "enableSubscribers": true,
+        "__SMARTLIST__": "RE::add(\r\n RE::videos(\r\n  RE::condition()\r\n   ->lastNDays(30)\r\n   ->order('dateCreated')\r\n )\r\n);"
+    },
+    "transcripts": null
+}
