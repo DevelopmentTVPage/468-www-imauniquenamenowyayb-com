@@ -3,7 +3,7 @@
     "description": null,
     "referenceId": null,
     "date_created": "1507670126",
-    "date_modified": "1507671172",
+    "date_modified": "1507673435",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -14,6 +14,12 @@
     "titleTextEncoded": "Channelito",
     "category": null,
     "duration": null,
-    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "settings": {
+        "canvasImage": "700468259-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "700468259-294231510352.jpg",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759039\/canvas\/216\/121\/700468259-294231510352.jpg"
+    },
     "transcripts": null
 }
